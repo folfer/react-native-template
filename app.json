@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ai-trainer",
+    "slug": "ai-trainer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
